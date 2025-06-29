@@ -29,5 +29,5 @@ A collection of my schoolwork that is in a presentable format (reports or/and co
  - Cloud Computing (Group project: [Github repo](https://github.com/RSOPMS/app))
 
 ### Fourth Semester (2024/2025)
- - High-Performance Computing (Homeworks - in progress...)
- - Computer Systems (Homeworks - in progress...)
+ - High-Performance Computing (Group Homeworks: [Github Repo](https://github.com/kristjan-kostanjsek/HPC-Assignments/))
+ - Computer Systems (Group Homeworks: [Github Repo](https://github.com/anzearhar/fri_cs))
